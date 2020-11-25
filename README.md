@@ -20,7 +20,7 @@
   <em>晚安日记 app</em>
 </p>
 
-### 功能特色
+## 功能特色
 1. 以时间线形式、日历卡片形式展示日记记录，可方便的查看写下每篇日记时的心情；
 2. 每天的日记可选择6种不同心情，可通过心情筛选快速查找日记；
 3. 日记记录完成将根据您当天的心情生成一张神奇的夜签，为您消解烦恼、指点迷津；
@@ -28,7 +28,24 @@
 5. 支持设置时间定期提醒写日记；
 6. 日记记录形式支持文本、图片、音频等多种模式；
 
-### 用户反馈
+## Usage  
+```bash
+git clone https://github.com/jeffie/rn-wanan-app  
+npm install  
+cd ios && pod install && cd ..
+```
+### Run:
+```bash
+react-native run-android
+react-native run-ios
+```
+### Relase:
+```bash
+npm run release-android
+npm run release-ios
+```
+
+## 用户反馈
 “小而美的晚安日记，给心灵一丝慰藉，这个时代少有的静谧之处”--糖果色  
 “一款很特别的日记本，深紫色的界面仿佛一下就能抹去心底的噪音，写完日记抽的夜签更像是有神奇的魔力，一下就能击中心中最柔软的地方”--Krystal   
 “繁忙都市中难得的独处空间，记录生活琐碎或乍现的灵感。也能记录自己走过的路和即将遇见的人”--chpingren  
