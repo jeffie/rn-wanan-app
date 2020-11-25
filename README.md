@@ -48,8 +48,9 @@ npm run release-ios
 “繁忙都市中难得的独处空间，记录生活琐碎或乍现的灵感。也能记录自己走过的路和即将遇见的人”--chpingren  
 
 ## 下载体验  
-<img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/qrcode.jpeg" title="Priority Demo" float="left" width="350">
   <br>
-  <em>扫描二维码下载体验</em>
+  <em>扫描二维码下载体验</em><br>
+<img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/qrcode.jpeg" title="Priority Demo" float="left" width="350">
+
 
 
