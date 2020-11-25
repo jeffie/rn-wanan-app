@@ -13,9 +13,6 @@
     <kbd>
     <img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/3.png" title="Priority Demo" float="left" width="200">
   </kbd>
-    <kbd>
-    <img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/4.png" title="Priority Demo" float="left" width="200">
-  </kbd>
   <br>
   <em>晚安日记 app</em>
 </p>
