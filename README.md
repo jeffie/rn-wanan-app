@@ -2,7 +2,23 @@
 晚安日记这款产品希望通过帮助您养成每晚寥寥数语记录心情和生活的习惯，平静内心、疗愈自我，为心灵营造温馨舒适的睡前状态，以便提升睡眠质量。同时也能通过对日记的回顾，了解自己在一段时间内的心情状态，以便及时做出调整。  
 
 这款APP 使用React-Native作为主要技术开发栈，目前已经上架App Store，Android版本也可直接扫码下载使用。产品最新代码已经全部更新，内置功能包含微信/appin登录、截图分享、音频处理等，可以通过项目代码来进一步学习React-Native在实际项目中的应用。作者也对常用组件库和网络、存储等库做了封装处理，开箱即用。
-![1](https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/1.png)
+
+<p align="center" >
+  <kbd>
+    <img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/1.png" title="Scroll Demo" float="left" width="200">
+  </kbd>
+  <kbd>
+    <img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/2.png" title="Priority Demo" float="left" width="200">
+  </kbd>
+    <kbd>
+    <img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/3.png" title="Priority Demo" float="left" width="200">
+  </kbd>
+    <kbd>
+    <img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/4.png" title="Priority Demo" float="left" width="200">
+  </kbd>
+  <br>
+  <em>晚安日记 app</em>
+</p>
 
 ### 功能特色
 1. 以时间线形式、日历卡片形式展示日记记录，可方便的查看写下每篇日记时的心情；
