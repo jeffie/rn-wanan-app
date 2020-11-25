@@ -47,7 +47,9 @@ npm run release-ios
 “一款很特别的日记本，深紫色的界面仿佛一下就能抹去心底的噪音，写完日记抽的夜签更像是有神奇的魔力，一下就能击中心中最柔软的地方”--Krystal   
 “繁忙都市中难得的独处空间，记录生活琐碎或乍现的灵感。也能记录自己走过的路和即将遇见的人”--chpingren  
 
-## 扫码体验  
-<img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/qrcode.jpeg" title="Priority Demo" float="left" width="300">
+## 下载体验  
+<img src="https://github.com/jeffie/rn-wanan-app/blob/master/screenshot/qrcode.jpeg" title="Priority Demo" float="left" width="350">
+  <br>
+  <em>扫描二维码下载体验</em>
 
 
